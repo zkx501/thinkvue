@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/../Runtime/.idea/Runtime.iml" filepath="$PROJECT_DIR$/../Runtime/.idea/Runtime.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/thinkvue.iml" filepath="$PROJECT_DIR$/.idea/thinkvue.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../vuemultiple/.idea/vuemultiple.iml" filepath="$PROJECT_DIR$/../vuemultiple/.idea/vuemultiple.iml" />
     </modules>
   </component>
 </project>
