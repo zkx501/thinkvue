@@ -1,4 +1,3 @@
 .idea
-access_log
-error_log
+*_log
 /node_modules
